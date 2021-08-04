@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @annapavluk52
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning cyber-security
